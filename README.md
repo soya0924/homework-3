@@ -1,14 +1,16 @@
-# 我的專案
+# Graphic-Line-Wave
 
-## 簡介
-這是一個專案說明文件。
+A simple practice about HTML canvas.
 
-## 安裝方式
+## Demo
 
-## 使用說明
+[Online Demo](https://chenweichiang.github.io/Graphic-Line-Wave/)
 
-## 功能特點
+## Feature
+* Pure Javascript
+* HTML Canvas animation
+* Drawing wave pattern
 
-## 貢獻方式
-
-## 許可證
+## Reference
+* [MDN - Canvas tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+* [HTML5 Canvas - GAME DEVELOPMENT](https://www.youtube.com/watch?v=EYf_JwzwTlQ)
